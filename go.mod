@@ -1,4 +1,4 @@
-module github.com/fsgo/smart-go-dl
+module github.com/EzraZhao/smart-go-dl
 
 go 1.25
 
